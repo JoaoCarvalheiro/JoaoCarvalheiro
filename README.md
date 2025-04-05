@@ -2,7 +2,7 @@
 - 🔭 I am currently working as a Young Apprentice in a philanthropic company.
 - 🌱 I'm currently learning HTML, CSS and Javascript. I plan to progress to React.
 - 📫 contact me: jp08carvalheiro@gmail.com
-- ⚡ Fun fact: I'm 20 years old and I'm looking for my first job in programming, I'm studying systems analysis and development at University and I'm at an intermediate level in English.
+- ⚡ Fun fact: I'm 21 years old and I'm looking for my first job in programming, I'm studying systems analysis and development at University and I'm at an intermediate level in English.
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
