@@ -1,5 +1,5 @@
 ### Hi there, welcome 👋
-- 🔭 I am currently working as a Young Apprentice in a philanthropic company.
+- 🔭 I am currently working in a multinational company that aims to produce transformers.
 - 🌱 I'm currently learning HTML, CSS and Javascript. I plan to progress to React.
 - 📫 contact me: jp08carvalheiro@gmail.com
 - ⚡ Fun fact: I'm 21 years old and I'm looking for my first job in programming, I'm studying systems analysis and development at University and I'm at an intermediate level in English.
